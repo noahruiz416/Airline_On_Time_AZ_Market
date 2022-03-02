@@ -1,4 +1,4 @@
-## Simple SQL QUERY, used to filter dataset 
+## Simple SQL QUERY, used to filter dataset leveragin google bigQuery
 
 SELECT Year, Quarter, Month, DayOfMonth, DayOfWeek, FlightDate, Reporting_Airline,
 ORIGIN, OriginCityName, OriginState, DestState, DestStateName, DepDelay, DepDelayMinutes, WheelsOn, TaxiOut,
