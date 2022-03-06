@@ -21,5 +21,5 @@ This diagram, documents the overall data flow of the project itself. Inclduing d
 <img width="978" alt="Screen Shot 2022-03-02 at 9 25 22 AM" src="https://user-images.githubusercontent.com/88412646/156405792-b1236458-ad55-4af9-b7af-f6e0752457a4.png">
 
 ## Methods:
-
+Various statical methods and machine learning techniques are used through this report to solve the proposed research question. Extensive exploratory data analysis was conducted prior to the use of machine learning modeling, which is covered in depth in the following section. Multivariable regression was the main algorithm used in this report and multiple models were iterated through to find the best fit model. Libraries used include pandas, seaborn and sklearn, for data cleaning, data visualization and model training. Variance inflation factors were used to test for multicollinearity between independent variables. Train / test splits were also used throughout the report, with the purpose of testing our model’s performance. Finally various metric scores were put together to test the performance of our models. Metrics used include root mean squared error, coefficient of determination and more. 
 ## Exploratory Data Analysis:
