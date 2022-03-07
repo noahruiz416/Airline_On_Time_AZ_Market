@@ -1,7 +1,7 @@
 # Airline_On_Time_AZ_Market
 In depth regression analysis, leveraging cloud technology and machine learning to predict flight arrival delay times. (Work In Progress)
 
-## Summary:
+## Summary of Results and Project:
 
 Every month thousands of airline flights are cancelled, rescheduled, or delayed, leading to negative sentiment from consumers, potential losses from cancelled flights and in the worse cases a chain reaction of delayed flights across multiple airports. For a consumer this leads to a negative customer experience and for the airlines themselves, can cause a decrease in customer & brand loyalty.
 
