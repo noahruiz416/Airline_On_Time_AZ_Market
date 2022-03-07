@@ -42,3 +42,10 @@ After learning about the distribution of airline delay times, scatterplots were 
 <img width="497" alt="Screen Shot 2022-03-07 at 9 55 02 AM" src="https://user-images.githubusercontent.com/88412646/157090403-3cd20ddf-5a58-4b05-8755-e545b4c2e86e.png">
 
 <img width="473" alt="Screen Shot 2022-03-07 at 9 55 20 AM" src="https://user-images.githubusercontent.com/88412646/157090451-c9cdfedf-9a44-44e0-aa85-fd9526d8a9ed.png">
+
+## Model Analysis (In Progress)
+
+After conducting the Exploratory data analysis and referring to the results from our previous simple regression model, we have a fairly good idea of what variables to use for the creation of a predictive model. In our case there are around 9 variables which we will examine in the creation of our machine learning model. The variables are “Departure Delay”, “Carrier Delay”, “Weather Delay”, “NAS Delay”, “Security Delay”, “Late Aircraft Delay”, “Distance”, “Taxi Out” and “Taxi In”. Each of these variables was selected based off previous research into the subject and through the results of our EDA conducted earlier in the report. In my previous study on the topic, I was able to find a ‘best fit’ regression model for arrival delay times that can be written as  
+y (Arrival Delay)= -8.86+0.9998 (Depature Delay)
+Using this knowledge, I included departure delay in each of the models and made various tweaks through each iteration to create an effective predictive model. With the variables selected I ran a VIF test, to check for large amounts of multicollinearity between our x variables. The results of the test can be summarized in the table below, however there were large amounts of collinearity between Departure Delay, Carrier Delay and Late Aircraft Delay, which led to me creating interaction between these variables in some of the model iterations. Besides that, each of the variables had fairly low collinearity, allowing me to include them within the model.
+
