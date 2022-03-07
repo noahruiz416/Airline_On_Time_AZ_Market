@@ -29,3 +29,16 @@ Before running any regression model’s extensive exploratory data analysis was 
 After learning about the distribution of airline delay times, scatterplots were used to find any relationship between the delay variables and arrival delay. The scatterplots used are very important as they give an initial idea of relationships between arrival delay and the delay variables. Out of all the variables “departure delay” had the strongest positive linear relationship with arrival delay. “Late Aircraft Delay” and “Carrier Delay” also shared a moderate positive linear relationship with arrival delay though both variables had high amounts of variation, the shorter “Late Aircraft Delay” or “Carrier Delay” was. The remaining delay variables had very little correlation with arrival delay and showed very little signs of any relationship. Finally, boxplots were used to gain an understanding of the number of outliers in each of the delay variables, with each of the delay variables having a high number of outliers. In particular “Late Aircraft Delay” and “Weather Delay” tended to have the highest number of outliers between the delay variables. 
 
 ### Charts:
+<img width="724" alt="Screen Shot 2022-03-07 at 9 50 56 AM" src="https://user-images.githubusercontent.com/88412646/157089815-b4ffaf60-6cc7-4fc2-86fe-0ea27c0b5dbd.png">
+
+<img width="594" alt="Screen Shot 2022-03-07 at 9 51 56 AM" src="https://user-images.githubusercontent.com/88412646/157089893-3ae2d2d0-b4ee-4f17-830d-1b380f04dce2.png">
+
+<img width="550" alt="Screen Shot 2022-03-07 at 9 53 46 AM" src="https://user-images.githubusercontent.com/88412646/157090203-4c6562e7-6d30-4614-a8c6-75a25fe97bc3.png">
+
+<img width="506" alt="Screen Shot 2022-03-07 at 9 54 00 AM" src="https://user-images.githubusercontent.com/88412646/157090234-e0a666a4-7ac3-47c2-909e-baf773b283da.png">
+
+<img width="480" alt="Screen Shot 2022-03-07 at 9 54 47 AM" src="https://user-images.githubusercontent.com/88412646/157090360-12685731-d41e-45e0-89e4-c92b268ab234.png">
+
+<img width="497" alt="Screen Shot 2022-03-07 at 9 55 02 AM" src="https://user-images.githubusercontent.com/88412646/157090403-3cd20ddf-5a58-4b05-8755-e545b4c2e86e.png">
+
+<img width="473" alt="Screen Shot 2022-03-07 at 9 55 20 AM" src="https://user-images.githubusercontent.com/88412646/157090451-c9cdfedf-9a44-44e0-aa85-fd9526d8a9ed.png">
